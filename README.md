@@ -69,11 +69,15 @@ In May 2021 I graduated from Coders Lab programming bootcamp which gave me a sol
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Domino731&theme=tokyonight)](https://github.com/Domino731/github-readme-stats)
 ---
- My projects
+#### My projects 🧾
  |title| link| description | technology |
  | --- | --- | --- | --- |
  | Infnite_stack | Under development. Release scheduled for december 24:) | My most ambitious project, will be serving as second home for a developer. There will be dashbard for managing his workflow, project, progress, and his team (something like trello.com). I also plans to create an artificial intelligence that will select articles from the world of 'programming' for the user based on his technologies. But the most innovative section will be the one with the webpack configurator by which user will can create his project setup, for this purpose I will use node.js  | confirmed technology stack: React, redux, router,  styled components, firebase, node.js, typescript, react optimalization hooks - useMemo, useCallback, lazy, suspens |
   | Monster Hunter | --- | Project created with my 'own framework' with using object oriented programming. It is a game based on existing popular web browser game - Shakes & Fidget. Everything is created about automation for further app develop - easy adding new missions, blacksmith items, potions, emotions...  | TypeScript, webpack, node.js, scss, google firebase service, object oriented programming |
- 
-
-
+  | Domino Learn | --- |  An app created with react in purpose to help young begginers to enter into front-end world. The project has 3 sections with task for every front-end language - for javascript, html and css. The biggest advantage is the easy way for adding new task. The tasks are come from Firestore database and the whole data structure is described in project docs. I also create quiz section for js, html and css. And there is also sandbox code editor with custom theme and editor layout. User can add reset css for his styles.  | React, Router, Styled Components, Typescript,Create React App, Firestore, Js-beautify, Console-feed, React Ace Editor |
+  | Pocket Leisure | --- | The project with 3 diffrent API's. I put there 3 sections - movies, games and the last section is with overwatch statistics panel for a specific battleNet player. This app has also ability to change theme (4 colors available) | React, Styled Components, Redux, Router, JS6, Ow-api, Rawg API, TheMovieDb API, Create React App  |
+ | DOMIX | --- | An app that helps you manage your home, with recipes, tasks, products section. Everything is programmed about task automation in order for easy application development. The available types of recipes and products come from firebase so if you want to add a new product look to the documentation of this project (very easy adding new items)| React, Redux, Router, SASS, Google Firebase, Create React App |
+ | Bindec calc | --- | Decimal & 8-bit binary calulator created with object oriented programming metodology. Typescript trening | HTML5, SASS, TypeScript, Webpack |
+ | Chase the thief | --- | The game created in pure javascript with object oriented programming metodology. The user controls the hero and must catch as many times as possible. Game has also 3 different difficulty levels which is influencing on hero speed. The progress from game is saving into local storage - score from last game and the highest score| HTML5, SASS, JS6, Webpack |
+  | Dollar weather | --- | My first react app, it's a weather app with ability to save favorite places to local storage.  | JS6, React, Redux, SASS, OpenWeatherApi |
+  | Best Shop | github repository | The simple single page for buisness with form validation. RWD traning. | Gulp, JS6, SASS, HTML |
