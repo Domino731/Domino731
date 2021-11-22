@@ -14,7 +14,7 @@ In May 2021 I graduated from Coders Lab programming bootcamp which gave me a sol
  
 ---
 
-Fast me 😁
+#### Fast me 😁
 - 🔭 I’m currently working on: Infnite_stack project
 - 🌱 I’m currently learning: Writing unit tests
 - 👯 I’m looking to collaborate on: Infnite_stack project
@@ -27,7 +27,7 @@ Fast me 😁
 - ⚡ Fun fact: In 2022 I will win Hero Challange :)
 
 ---
-💼 Technology
+#### Technology 💼
 
 
 <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg' width='50' height='50' alt='HTML icon' title='HTML5'> </img>
@@ -41,8 +41,9 @@ Fast me 😁
 <img src='https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg' width='50' height='50' alt='NPM icon' title='NPM'> </img>
 <img src='https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg' width='50' height='50' alt='Node icon' title='Node'> </img>
 <img src='https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg' width='50' height='50' alt='Google Firebase icon' title='Google Firebase'> </img>
-<img src='https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg' width='50' height='50' alt='Github icon' title='Github'> </img>
+<img src='https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg' width='50' height='50' alt='GIT icon' title='GIT'> </img>
 <img src='https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg' width='50' height='50' alt='VSC icon' title='Visual studio code'> </img>
+<img src='https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg' width='50' height='50' alt='Adobe XD icon' title='Adobe XD'></img>
 
 * HTML5
 * JavaScript, ES6
@@ -56,9 +57,23 @@ Fast me 😁
 * NPM
 * Node.js
 * Google Firebase
-* Github
+* GIT
 * REST API
 * Visual Studio Code
 * BEM metodology, object oriented programming, clean and clear code
 * Scrum, agile - I took part in a simulation of a programmer's work
-* Unit testing (learning)
+* Adobe XD
+* Unit testing (📚 learning)
+  <ul>
+   
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Domino731&theme=tokyonight)](https://github.com/Domino731/github-readme-stats)
+---
+ My projects
+ |title| link| description | technology |
+ | --- | --- | --- | --- |
+ | Infnite_stack | Under development. Release scheduled for december 24:) | My most ambitious project, will be serving as second home for a developer. There will be dashbard for managing his workflow, project, progress, and his team (something like trello.com). I also plans to create an artificial intelligence that will select articles from the world of 'programming' for the user based on his technologies. But the most innovative section will be the one with the webpack configurator by which user will can create his project setup, for this purpose I will use node.js  | confirmed technology stack: React, redux, router,  styled components, firebase, node.js, typescript, react optimalization hooks - useMemo, useCallback, lazy, suspens |
+  | Monster Hunter | --- | Project created with my 'own framework' with using object oriented programming. It is a game based on existing popular web browser game - Shakes & Fidget. Everything is created about automation for further app develop - easy adding new missions, blacksmith items, potions, emotions...  | TypeScript, webpack, node.js, scss, google firebase service, object oriented programming |
+ 
+
+
