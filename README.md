@@ -63,7 +63,7 @@ In May 2021 I graduated from Coders Lab programming bootcamp which gave me a sol
 * simple and useful code 
 * Scrum, agile - I took part in a simulation of a programmer's work
 * Adobe XD
-* Unit testing (📚 learning)
+* Unit testing with Jest library (📚 learning)
   <ul>
    
 ---
