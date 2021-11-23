@@ -43,7 +43,6 @@ In May 2021 I graduated from Coders Lab programming bootcamp which gave me a sol
 <img src='https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg' width='50' height='50' alt='Google Firebase icon' title='Google Firebase'> </img>
 <img src='https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg' width='50' height='50' alt='GIT icon' title='GIT'> </img>
 <img src='https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg' width='50' height='50' alt='VSC icon' title='Visual studio code'> </img>
-<img src='https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg' width='50' height='50' alt='Adobe XD icon' title='Adobe XD'></img>
 
 * HTML5
 * JavaScript, ES6, object oriented programming
@@ -62,7 +61,6 @@ In May 2021 I graduated from Coders Lab programming bootcamp which gave me a sol
 * BEM metodology
 * simple and useful code 
 * Scrum, agile - I took part in a simulation of a programmer's work
-* Adobe XD
 * Unit testing with Jest library (📚 learning)
   <ul>
    
