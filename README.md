@@ -46,7 +46,7 @@ In May 2021 I graduated from Coders Lab programming bootcamp which gave me a sol
 <img src='https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg' width='50' height='50' alt='Adobe XD icon' title='Adobe XD'></img>
 
 * HTML5
-* JavaScript, ES6
+* JavaScript, ES6, object oriented programming
 * CSS3
 * Sass
 * Mobile first, RWD
@@ -59,7 +59,8 @@ In May 2021 I graduated from Coders Lab programming bootcamp which gave me a sol
 * Google Firebase
 * GIT
 * Visual Studio Code
-* BEM metodology, object oriented programming, clean and clear code
+* BEM metodology
+* simple and useful code 
 * Scrum, agile - I took part in a simulation of a programmer's work
 * Adobe XD
 * Unit testing (📚 learning)
